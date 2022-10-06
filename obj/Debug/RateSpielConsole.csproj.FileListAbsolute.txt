@@ -1,0 +1,8 @@
+C:\Users\medin.krupic\source\repos\Ampel System\RateSpielConsole\bin\Debug\RateSpielConsole.exe.config
+C:\Users\medin.krupic\source\repos\Ampel System\RateSpielConsole\bin\Debug\RateSpielConsole.exe
+C:\Users\medin.krupic\source\repos\Ampel System\RateSpielConsole\bin\Debug\RateSpielConsole.pdb
+C:\Users\medin.krupic\source\repos\Ampel System\RateSpielConsole\obj\Debug\RateSpielConsole.csproj.CoreCompileInputs.cache
+C:\Users\medin.krupic\source\repos\Ampel System\RateSpielConsole\obj\Debug\RateSpielConsole.exe
+C:\Users\medin.krupic\source\repos\Ampel System\RateSpielConsole\obj\Debug\RateSpielConsole.pdb
+C:\Users\medin.krupic\source\repos\Ampel System\RateSpielConsole\obj\Debug\RateSpielConsole.csproj.AssemblyReference.cache
+C:\Users\medin.krupic\source\repos\Ampel System\RateSpielConsole\obj\Debug\RateSpielConsole.csproj.SuggestedBindingRedirects.cache
